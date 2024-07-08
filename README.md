@@ -9,7 +9,7 @@
 
 <p align="center">
 <b>All contributions welcome, please open a pull request if you have anything to add.</b><br>
-<b>If not for you, please contact cryakl@airmail.cc for private discussion ALL CRED GOES TO O cryakl@airmail.cc  cryakl@airmail.cc cryakl@airmail.cc cryakl@airmail.cc.</b><br>
+<b>If not for you, please contact cryakl@airmail.cc for private discussion ALL CRED GOES TO  cryakl@airmail.cc  cryakl@airmail.cc cryakl@airmail.cc cryakl@airmail.cc.</b><br>
   <br>
 <br>
 Some larger samples are split, to unpack please use 7-Zip.<br>
